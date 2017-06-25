@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-=======
-tgagagesttetsavaogiag
+tgagagesttetsa
+aaaaa testtetsa
+oha!
+Tokyo 
 aaaaa testtetsabvaougowafhabo
 vakjhapvreoha!
 vbduoavgav
@@ -9,6 +10,6 @@ vnavhaepga
 vaefbovaeg
 vnfaiaoerapvpsva
 
-
+Tokyo
 aaaaa
->>>>>>> 8271c30e1684a6eda32c321dde83f065f4cd29c8
+aaaaaaaaaaaaaaaaaaa
